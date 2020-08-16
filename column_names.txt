@@ -1,0 +1,143 @@
+Id
+Monthly rent payment
+Overcrowding by bedrooms
+number of all rooms in the house
+Overcrowding by rooms
+has bathroom in the household
+if the household has refrigerator
+owns a tablet
+number of tablets household owns
+Males younger than 12 years of age
+Males 12 years of age and older
+Total males in the household
+Females younger than 12 years of age
+Females 12 years of age and older
+Total females in the household
+persons younger than 12 years of age
+persons 12 years of age and older
+Total persons in the household
+size of the household
+number of persons living in the household
+years of schooling
+Years behind in school
+household size
+if predominant material on the outside wall is block or brick
+if predominant material on the outside wall is socket wood  zinc or absbesto
+if predominant material on the outside wall is prefabricated or cement
+if predominant material on the outside wall is waste material
+if predominant material on the outside wall is wood
+if predominant material on the outside wall is zink
+if predominant material on the outside wall is natural fibers
+if predominant material on the outside wall is other
+if predominant material on the floor is mosaic ceramic terrazo
+if predominant material on the floor is cement
+if predominant material on the floor is other
+if predominant material on the floor is  natural material
+if no floor at the household
+if predominant material on the floor is wood
+if predominant material on the roof is metal foil or zink
+if predominant material on the roof is fiber cement mezzanine
+if predominant material on the roof is natural fibers
+if predominant material on the roof is other
+if the house has ceiling
+if water provision inside the dwelling
+if water provision outside the dwelling
+if no water provision
+electricity from CNFL ICE ESPH or JASEC
+electricity from private plant
+no electricity in the dwelling
+electricity from cooperative
+no toilet in the dwelling
+toilet connected to sewer or cesspool
+toilet connected to  septic tank
+toilet connected to black hole or letrine
+toilet connected to other system
+no main source of energy used for cooking no kitchen
+main source of energy used for cooking electricity
+main source of energy used for cooking gas
+main source of energy used for cooking wood charcoal
+if rubbish disposal mainly by tanker truck
+if rubbish disposal mainly by botan hollow or buried
+if rubbish disposal mainly by burning
+if rubbish disposal mainly by throwing in an unoccupied space
+if rubbish disposal mainly by throwing in river creek or sea
+if rubbish disposal mainly other
+if walls are bad
+if walls are regular
+if walls are good
+if roof are bad
+if roof are regular
+if roof are good
+if floor are bad
+if floor are regular
+if floor are good
+if disable person
+if male
+if female
+if less than 10 years old
+if free or coupled uunion
+if married
+if divorced
+if separated
+if widower
+if single
+if household head
+if spouse or partner
+if son or doughter
+if stepson or doughter
+if son or doughter in law
+if grandson or doughter
+if mother or father
+if father or mother in law
+if brother or sister
+if brother or sister in law
+if other family member
+if other non family member
+Household level identifier
+Number of children 0 to 19 in household
+Number of adults in household
+No of individuals 65 plus in the household
+of total individuals in the household
+dependency
+edjefe
+edjefa
+meaneduc
+no level of education
+incomplete primary
+complete primary
+incomplete academic secondary level
+complete academic secondary level
+incomplete technical secondary level
+complete technical secondary level
+undergraduate and higher education
+postgraduate higher education
+bedrooms
+overcrowding
+own and fully paid house
+own paying in installments
+rented
+precarious
+other assigned borrowed
+if the household has notebook or desktop computer
+if the household has TV
+if mobile phone
+no of mobile phones
+region Central
+region Chorotega
+region Pacafico central
+region Brunca
+region Huetar Atlantica
+region Huetar Norte
+area zona urbana
+area zona rural
+Age in years
+years of schooling squared
+age squared
+hogar_total squared
+years of education of male head of household squared
+Number of children 0 to 19 in household squared
+overcrowding squared
+dependency squared
+square of the mean years of education of adults greater than or equal to 18 in the household
+Age squared
+Target
